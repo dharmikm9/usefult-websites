@@ -8,6 +8,9 @@ A curated collection of useful websites categorized for easy navigation. Feel fr
 ### Math
 - [Seeing Theory - Brown University](https://seeing-theory.brown.edu/) - A visual introduction to probability and statistics!
 
+### Data Science | ML | Deep Learning
+- [Amazing Resources](https://github.com/peggy1502/Amazing-Resources?tab=readme-ov-file) - useful link
+
 ## Contribution
 
 If you have a useful website to share, feel free to create a pull request or add it below!
